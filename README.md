@@ -7,7 +7,7 @@
 if you are on a mac you should have python already install you just need this launcher app
 ```
 
-###### Get The Sample Apps From Elkhorn.io GitHub Links
+###### Use The Sample Apps From Elkhorn.io GitHub Links
 
 ##### two-page-app demo
 - https://github.com/elkhorn-io/two-page-app
