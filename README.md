@@ -17,3 +17,9 @@ if you are on a mac you should have python already install you just need this la
 
 ##### demo-signup-form demo
 - https://github.com/elkhorn-io/demo-signup-form
+
+- - -
+
+#### About the app.yaml file
+* https://en.wikipedia.org/wiki/YAML
+* https://cloud.google.com/appengine/docs/python/config/appconfig
